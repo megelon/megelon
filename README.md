@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Miguel Angel Díaz Rodríguez
+
+- 🔭 I’m currently working on MLOps
+- 🌱 I love to learn
+- 👯 I’m looking to collaborate on EdTech projects
+
 <!--
 **megelon/megelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
