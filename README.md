@@ -11,7 +11,7 @@ My name is Miguel Angel Díaz Rodríguez
 - 👯 I’m running Apache Spark Communities in :colombia: & :mexico:
 
 [![Mlops Badge](https://img.shields.io/badge/-Mlops-007acc?style=for-the-badge&labelColor=black&logo=databricks&logoColor=007acc)](#) 
-[![Databrics Badge](https://img.shields.io/badge/-Databrics-3C873A?style=for-the-badge&labelColor=black&logo=databricks&logoColor=3C873A)](#)
+[![Databricks Badge](https://img.shields.io/badge/-Databricks-3C873A?style=for-the-badge&labelColor=black&logo=databricks&logoColor=3C873A)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
 [![Devops Badge](https://img.shields.io/badge/-Devops-F0DB4F?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=F0DB4F)](#) 
 [![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-e535ab?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=e535ab)](#)
