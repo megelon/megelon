@@ -3,7 +3,7 @@
 My name is Miguel Angel Díaz Rodríguez 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Miguel Diaz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueldr/)
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel Diaz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/migueldr/)]
 
 
 - 🔭 I’m currently working on MLOps
