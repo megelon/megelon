@@ -1,10 +1,10 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is Miguel and I am in love with learning 🫀
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is Miguel and I am interested in education 🧠
 
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel_Diaz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueldr/)
 
-- 🔭 I’m currently working on MLOps projects
-- 🌱 I love to learn about technology and sailing
-- 👯 I’m running Apache Spark Communities in :colombia: & :mexico:
+- 🔭 I’m currently working on MLOps projects at the best Beer Company in Colombia, Mexico and World Wide.
+- 🌱 I love to learn about technology and sailing ⛵
+- 👯 I’m running Apache Spark 💥 Communities in :colombia: & :mexico:
 
 [![Mlops Badge](https://img.shields.io/badge/-Mlops-007acc?style=for-the-badge&labelColor=black&logo=databricks&logoColor=007acc)](#) 
 [![Databricks Badge](https://img.shields.io/badge/-Databricks-3C873A?style=for-the-badge&labelColor=black&logo=databricks&logoColor=3C873A)](#)
