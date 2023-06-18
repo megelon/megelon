@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on MLOps projects at the best Beer Company in Colombia, Mexico and World Wide.
 - 🌱 I love to learn about technology and sailing ⛵
-- 👯 I’m running Apache Spark 💥 Communities in :colombia: & :mexico:
+- 🏃 Enjoy running and swimming 🏊‍♂️
+- 👯 Organizer of Apache Spark 💥 Communities in :colombia: & :mexico:
 
 [![Mlops Badge](https://img.shields.io/badge/-Mlops-007acc?style=for-the-badge&labelColor=black&logo=databricks&logoColor=007acc)](#) 
 [![Databricks Badge](https://img.shields.io/badge/-Databricks-3C873A?style=for-the-badge&labelColor=black&logo=databricks&logoColor=3C873A)](#)
