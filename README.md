@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel_Diaz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueldr/)
 
-- 🔭 I’m currently working on MLOps projects at the best Beer Company in Colombia, Mexico and World Wide.
-- 🌱 I love to learn about technology and sailing ⛵
-- 🏃 Enjoy running and swimming 🏊‍♂️
+- 🔭 I’m currently working on MLOps projects at the best Beer Company World Wide.
+- 🌱 I love learning. Interested in personal growth, tech & sailing ⛵
+- 🏃 Enjoying running and swimming 🏊‍♂️
 - 👯 Organizer of Apache Spark 💥 Communities in :colombia: & :mexico:
 
 [![Mlops Badge](https://img.shields.io/badge/-Mlops-007acc?style=for-the-badge&labelColor=black&logo=databricks&logoColor=007acc)](#) 
