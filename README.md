@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working on MLOps projects at the best Beer Company World Wide.
 - 🌱 I love learning. Interested in personal growth, tech & sailing ⛵
-- 🏃 Enjoying running and swimming 🏊‍♂️
-- 👯 Organizer of Apache Spark 💥 Communities in :colombia: & :mexico:
+- 🏃 Training for an Ironman 70.3 🏃, 🏊‍♂️, 🚴‍♂️ 
+- 👯 Organizer of Apache Spark 💥 Communities in  :colombia: [Colombia](https://www.meetup.com/es/apache-spark-bogota/) & :mexico: [Mexico](https://www.meetup.com/es/apache-spark-mexicocity/)
+- 👯 Organizer of :robot: [MLOps Bogotá Community](https://www.meetup.com/es/bogota-mlops-community/) in :colombia:
 
 [![Mlops Badge](https://img.shields.io/badge/-Mlops-007acc?style=for-the-badge&labelColor=black&logo=databricks&logoColor=007acc)](#) 
 [![Databricks Badge](https://img.shields.io/badge/-Databricks-3C873A?style=for-the-badge&labelColor=black&logo=databricks&logoColor=3C873A)](#)
